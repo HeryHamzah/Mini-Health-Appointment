@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251804242142",
+    "project_id": "mini-health-appointment",
+    "storage_bucket": "mini-health-appointment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251804242142:android:eac9ac67c2a9f30423324f",
+        "android_client_info": {
+          "package_name": "com.example.mini_health_appointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzqQc8NMmUFTWPnqeUWOcEPci7WEdRtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
